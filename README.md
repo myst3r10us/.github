@@ -2,9 +2,8 @@
   Hey fellow Hackers! 👋 <br>
   <h2 align="center">We Are myst3r10us. 👨🏻‍💻 </h2>
 </h1>
-<br>
 
-<h3 align="center">a Capture The Flag (CTF) Team Based In Malaysia</h3>
+<h3 align="center">a Capture The Flag (CTF) Team Based In Malaysia 🇲🇾</h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=myst3r10us&label=Profile%20views&color=0e75b6&style=flat" alt="myst3r10us" /> </p>
