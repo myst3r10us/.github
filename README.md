@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 We Are Myst3r10us</h1>
+<h1 align="center">Hey 👋 We Are myst3r10us</h1>
 <h3 align="center">a Capture The Flag (CTF) Team Based In Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myst3r10us&label=Profile%20views&color=0e75b6&style=flat" alt="myst3r10us" /> </p>
