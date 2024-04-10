@@ -12,7 +12,7 @@
 - 🌐 Our website: https://myst3r10us.vercel.app/
 
 - 👨‍💻 Can see Write-ups?
-  -  Sure! All of our writeups are stored here [https://myst3r10us.vercel.app/writeups](https://myst3r10us.vercel.app/writeups)
+  -  Sure! All of our writeups are stored here: [https://myst3r10us.vercel.app/writeups](https://myst3r10us.vercel.app/writeups)
 
 - 📫 How to reach us?
   - **https://myst3r10us.vercel.app/contact**
