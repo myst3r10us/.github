@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hey fellow Hackers! 👋 <br>
-  <h2 align="center">We Are myst3r10us. 👨🏻‍💻 </h2>
+  Hello Fellow Hackers! 👋 <br>
+  <h2 align="center">We are myst3r10us. 👨🏻‍💻 </h2>
 </h1>
 
 <h3 align="center">a Capture The Flag (CTF) Team Based In Malaysia 🇲🇾</h3>
